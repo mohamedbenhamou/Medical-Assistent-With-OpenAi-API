@@ -1,6 +1,6 @@
 # Medical-Assistent-With-OpenAi-API
 
-you need to remplace the API key ^^
+you need to replace the API key ^^
 
 
 
